@@ -1,0 +1,4 @@
+Product: Axom Mock Test MAX
+Author: Axom Xarothi
+Copyright: (c) 2026 Axom Xarothi. All Rights Reserved.
+License: Proprietary. Distribution without permission is prohibited.
